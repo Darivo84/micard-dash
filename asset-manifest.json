@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/micard-dash/static/css/main.8534dcfa.chunk.css",
+    "main.js": "/micard-dash/static/js/main.2655e182.chunk.js",
+    "main.js.map": "/micard-dash/static/js/main.2655e182.chunk.js.map",
+    "runtime-main.js": "/micard-dash/static/js/runtime-main.2d205270.js",
+    "runtime-main.js.map": "/micard-dash/static/js/runtime-main.2d205270.js.map",
+    "static/css/2.c55f41dc.chunk.css": "/micard-dash/static/css/2.c55f41dc.chunk.css",
+    "static/js/2.0fd07ebe.chunk.js": "/micard-dash/static/js/2.0fd07ebe.chunk.js",
+    "static/js/2.0fd07ebe.chunk.js.map": "/micard-dash/static/js/2.0fd07ebe.chunk.js.map",
+    "static/js/3.4e70ab7f.chunk.js": "/micard-dash/static/js/3.4e70ab7f.chunk.js",
+    "static/js/3.4e70ab7f.chunk.js.map": "/micard-dash/static/js/3.4e70ab7f.chunk.js.map",
+    "index.html": "/micard-dash/index.html",
+    "static/css/2.c55f41dc.chunk.css.map": "/micard-dash/static/css/2.c55f41dc.chunk.css.map",
+    "static/css/main.8534dcfa.chunk.css.map": "/micard-dash/static/css/main.8534dcfa.chunk.css.map",
+    "static/js/2.0fd07ebe.chunk.js.LICENSE.txt": "/micard-dash/static/js/2.0fd07ebe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d205270.js",
+    "static/css/2.c55f41dc.chunk.css",
+    "static/js/2.0fd07ebe.chunk.js",
+    "static/css/main.8534dcfa.chunk.css",
+    "static/js/main.2655e182.chunk.js"
+  ]
+}
